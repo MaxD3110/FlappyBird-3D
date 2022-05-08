@@ -4,9 +4,15 @@
   
 # Flappy Bird 3D
 
-Мой курсач на третьем курсе, заточен под мобильные устройства.
+Мой курсач на третьем курсе (2021), заточен под мобильные устройства.
 
 Написан по фану, со своей задачей справляется (time killer)
+
+<div align="center">
+  
+![Entry](https://user-images.githubusercontent.com/80919963/167307199-8080f941-2b48-4bc1-b88c-b75d8906805a.PNG)  
+  
+</div>
 
 Некоторые фишки проекта:
 
@@ -26,11 +32,11 @@
 
 Минус - оптимизация :(
 
+Движок - Unity
+
 ## Немного скриншотов
 
 <div align="center">
-  
-![Entry](https://user-images.githubusercontent.com/80919963/167307199-8080f941-2b48-4bc1-b88c-b75d8906805a.PNG)
   
 ![Gameplay2](https://user-images.githubusercontent.com/80919963/167307209-7c7c4671-5860-4d09-ae0a-ac9ed389dfbd.png)
   
